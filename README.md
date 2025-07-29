@@ -1,0 +1,23 @@
+Python-Projects/
+│
+├── 01_data_cleaning_tool/
+│   ├── clean_data.py
+│   ├── README.md
+│   └── sample_data.csv
+│
+├── 02_web_scraper_amazon/
+│   ├── scraper.py
+│   ├── README.md
+│   └── output.json
+│
+├── 03_weather_dashboard_streamlit/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── README.md
+│
+├── 04_image_classifier_ml/
+│   ├── model.ipynb
+│   ├── dataset/
+│   └── README.md
+│
+└── README.md  ← You're here!
